@@ -173,7 +173,7 @@ A model may choose instead to sacrifice its entire stock of movement points to m
 
 Damage is received from certain abilities. When a unit receives X points of damage, follow these steps:
 
-![image2](https://github.com/user-attachments/assets/2733fa8e-14db-4fe4-b80e-75b8de5496cd)
+<img width="2132" alt="Untitled" src="https://github.com/user-attachments/assets/dcee0302-0933-4b55-be54-d577a17e4198">
 
 ## Marking Damage
 
