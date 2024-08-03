@@ -10,6 +10,10 @@ Victory in this game is always determined by the mission.
 
 # General Rules
 
+The point of this game is to have fun with friends. The goal of this game is to guide your models to victory. Confusing the two is not recommended.
+
+In case of a debate between players about the game, the players can all agree to either ask the judgement of a third party or to roll off for whose judgement call is correct for this match. If the debate relates to the rules of HexPrint, please ask a question / make a pull request to help clarify.
+
 All dice in this game are d6s.
 
 Always round up.
@@ -187,26 +191,17 @@ When a model is boxed, place it “back in its box”. This model cannot come ba
 
 # Visibility
 
-## Model Height
-
-All models are assumed to be a number of hexes high equal to 2 plus the number of hexes they occupy. A one-hex model would therefore have a height of 3\.
-
 ## Line of Sight and Cover
 
 When attempting to check the line of sight between two models, follow this series of steps:
 
-1. Determine the height of the origin model (the shooter, caster, etc) which is the height of the hex plus the height of the model  
-1. Determine the height of the target model which is the height of the hex plus the height of the model  
-1. Determine the path between the models  
-1. If there are any terrain features on the path that have special rules (such as “no line of sight through this” or “grants cover”), those take precedence  
-1. If you still need to determine LOS/cover, average the height of the origin and target models. Round up.  
-1. Take the height of the origin model and subtract the height of the target model (this can result in a negative number). Halve it and round up (towards the more positive number).  
-1. Add the result from step 6 to the average from step 5\.  
-1. If any hex or terrain is at that height \+1 or lower, it doesn’t affect LOS/cover. If any hex is at that height \+2, the target has half cover. If any hex is at that height \+3 or more, the target has full cover.
+1. Bend down to "see" as best you can from the origin model to the target model.
+2. If you can only see roughly 10% or less of the target model, the models don't have line of sight.
+3. If you can see more than 10% but less than 50%, the model has full cover.
+4. If you can see more than 50% but less than 80%, the model has partial cover.
+5. If you can see more than 80%, the model has no cover.
 
-## Drawing Lines
-
-If there is a debate between players on where to draw the path between models, the origin model’s controller selects a hex to start the path. All players then alternate picking hexes which must always be closer than a previous hex to the target model. The result should be a path which is the shortest possible number of hexes between the two models. That is the path between these two models.
+If a model has partial or full cover and its blocked at all by a terrain piece with rules, apply any special rules on that terrain piece's card to the shot/effect/etc.
 
 # Terrain
 
@@ -218,7 +213,7 @@ Each step of elevation or height costs 1 movement point.
 
 ## Height
 
-All terrain in HexPrint has a height associated with it. A normal land tile has a height of 1, for example. Two land tiles stacked on top of each other means the stack has a height of 2\. This height is important for calculating line of sight and movement, but can also serve as a rules-based way to determine the correct terrain piece to print.
+All terrain in HexPrint has a height associated with it. A normal land tile has a height of 1, for example. Two land tiles stacked on top of each other means the stack has a height of 2. This height is important for calculating line of sight and movement, but can also serve as a rules-based way to determine the correct terrain piece to print.
 
 Height is always a round number. Any tile less than a height of 1 (for example, water tiles) is the height of the tile under it.
 
