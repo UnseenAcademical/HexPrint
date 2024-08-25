@@ -224,7 +224,6 @@ Unless stated otherwise, models must have line of sight to each other to affect 
 
 <img src="https://github.com/user-attachments/assets/fde93cde-1c68-49ea-847a-84cb41a48200" width="300"/>
 
-
 When attempting to check the line of sight between two models, follow this series of steps:
 
 1. Bend down to "see" as best you can from the origin model to the target model.
