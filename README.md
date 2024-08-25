@@ -20,16 +20,17 @@ Always round up.
 
 If a specific instance of a rule or effect contradicts a general rule, that instance takes priority. (For example, if an ability tells you to roll a d20, do so even though the rule above says that all dice are d6s.)
 
-If you’re told to determine a single \<thing\> (such as “the closest \<thing\>”) and there are multiple \<things\> that qualify, determine randomly from among them.  
-If an ability or effect says “a” or “an” \<thing\> then this ability or effect only impacts a single \<thing\>.
+If you’re told to determine a single <thing> (such as “the closest <thing>”) and there are multiple <things> that qualify, determine randomly from among them unless the ability says you can choose.  
 
-If it says “each” \<thing\> then it impacts multiple \<things\> based on its conditions.
+If an ability or effect says “a” or “an” <thing> then this ability or effect only impacts a single <thing>.
+
+If it says “each” <thing> then it impacts multiple <things> based on its conditions. Unless stated otherwise, an "each" effect applies to every model matching the conditions. If there is a limit, it will be written "each <thing> up to five" or similarly.
 
 If it says “friendly model” then it only affects a model you control that is NOT the source of the ability or effect.
 
 If it says “enemy model” then it only affects a model you don’t control that is NOT the source of the ability or effect.
 
-“Friendly” and “enemy” refer to the player controlling the ability or effect, not the model’s friends and enemies.
+“Friendly” and “enemy” refer to the player controlling the ability or effect, not the model’s friends and enemies. This is important during certain types of faction or co-op play.
 
 If it says “self” then its referring to the source of the ability or effect.
 
@@ -55,7 +56,7 @@ Each player then places initiative markers on the Hex Timer for each unit card t
 
 ## Time Turns
 
-The Hex Timer moves forward by one segment (1\>2\>3\>4\>5\>6\>1\>2\>3\>4\>5\>6\>1)
+The Hex Timer moves forward by one segment (1>2>3>4>5>6>1>2>3>4>5>6>1)
 
 All initiative markers on the indicated segment are taken off the Timer and set in their controlling player’s initiative pool.
 
@@ -69,7 +70,7 @@ Each player rolls a d6 for each initiative marker they took off the timer this t
 
 The first player chooses a 6 they rolled, and removes it from the initiative pool. If they can’t, they pass the activation.
 
-Then, the player selects a unit whose initiative marker is in their pool. This unit may take up to the number of actions listed on their card. Once those actions are complete, take the current segment that the Timer is on, and count “forward” a number of segments equal to the number of actions taken. Place the unit’s initiative marker on that segment.
+Then, the player selects a unit whose initiative marker is in their pool. This unit may take up to the number of actions listed on their card, or 5 actions, whichever is lower. Once those actions are complete, take the current segment that the Timer is on, and count “forward” a number of segments equal to the number of actions taken. Place the unit’s initiative marker on that segment.
 
 Once that unit’s activation is complete, the next player can move onto activating one of their units.
 
@@ -137,7 +138,7 @@ MOV can be damaged. While it is damaged, the unit can only move a single hex for
 
 TAR refers to the number that all this unit’s abilities and effects roll against. A TAR of “3+” for example, means that all dice rolled for this unit are counted as a success or a hit if the die shows a 3 or above.
 
-TAR can be damaged. While it is damaged, dice rolled for this unit’s abilities and effects are only a success or hit on a rolled 6\. (This means that if you give a unit with a damaged TAR a \+1 on a die roll, a roll of 5 will still not be a success).
+TAR can be damaged. While it is damaged, dice rolled for this unit’s abilities and effects are only a success or hit on a rolled 6. (This means that if you give a unit with a damaged TAR a -1 TAR effect, a roll of 5 will still not be a success).
 
 ## Abilities
 
@@ -216,6 +217,8 @@ Each step of elevation or height costs 1 movement point.
 All terrain in HexPrint has a height associated with it. A normal land tile has a height of 1, for example. Two land tiles stacked on top of each other means the stack has a height of 2. This height is important for calculating line of sight and movement, but can also serve as a rules-based way to determine the correct terrain piece to print.
 
 Height is always a round number. Any tile less than a height of 1 (for example, water tiles) is the height of the tile under it.
+
+Certain models have special rules that interact with height.
 
 ## Tags
 
