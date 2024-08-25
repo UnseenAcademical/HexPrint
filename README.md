@@ -6,7 +6,7 @@ HexPrint is a modular miniatures wargame that melds the customization of 3d prin
 
 # How to Win
 
-Victory in this game is always determined by the mission. You can still lose a game if you remove all your opponents models!
+Victory in this game is always determined by the mission. You can still lose a game even if you remove all your opponents models!
 
 # General Rules
 
