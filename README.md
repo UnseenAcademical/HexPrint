@@ -178,7 +178,7 @@ Models cannot move through other models without special abilities.
 
 Multi-hex models cannot end their movement if all their hexes are not on the same height.
 
-A model may choose instead to sacrifice its entire stock of movement points to move into ANY empty adjacent tile which can be entered willingly. This is to prevent model’s being completely trapped unintentionally.
+If a model has not spent any of its movement points, you may choose to sacrifice its entire stock of movement points to move it into ANY empty adjacent tile which can be entered willingly. This is to prevent model’s being completely trapped unintentionally.
 
 # Damage
 
