@@ -6,7 +6,7 @@ Someday I’ll figure out what to write here.
 
 # How to Win
 
-Victory in this game is always determined by the mission.
+Victory in this game is always determined by the mission. You can still lose a game if you remove all your opponents models!
 
 # General Rules
 
