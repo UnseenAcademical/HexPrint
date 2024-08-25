@@ -20,6 +20,8 @@ Always round up.
 
 If a specific instance of a rule or effect contradicts a general rule, that instance takes priority. (For example, if an ability tells you to roll a d20, do so even though the rule above says that all dice are d6s.)
 
+Unless stated otherwise, multiple different effects of the same type are cumulative. If a model is given -1 TAR by one effect and -1 TAR by another effect (or another instance of the same effect) the model now has -2 TAR.
+
 If you’re told to determine a single <thing> (such as “the closest <thing>”) and there are multiple <things> that qualify, determine randomly from among them unless the ability says you can choose.  
 
 If an ability or effect says “a” or “an” <thing> then this ability or effect only impacts a single <thing>.
@@ -187,6 +189,14 @@ Damage is received from certain abilities. When a unit receives X points of dama
 ## Marking Damage
 
 In order to mark off a damage slot, roll a d6 to determine which ability or stat is to be marked. Then mark a damage box on that ability or stat. If you can’t mark that for some reason, instead reroll the d6 and mark the new roll. If all slots on an ability or stat are marked, that ability or stat is damaged. Damaged stats or abilities are reduced or disabled.
+
+## Downed
+
+Models can be Downed, usually by a character model having all their damage slots being marked. When a character is Downed, leave the model on the board. At the end of this time segment, mark the model's card with a dice set to 1, this is the model's Death Die. When time turns, increase the Death Die number by 1.
+
+Whenever a Downed model would take damage, instead roll as many dice as the points of damage it would take. If any of the dice are the same or below the number on the Death Die, the model is removed.
+
+A model can stop being Downed either by having a damage slot unmarked (by healing, for example) or by an ability that specifically says it removes the Downed status.
 
 ## Removal and Boxing
 
