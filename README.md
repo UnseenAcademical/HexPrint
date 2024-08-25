@@ -200,9 +200,9 @@ A model can stop being Downed either by having a damage slot unmarked (by healin
 
 ## Removal and Boxing
 
-When a model is removed, place it somewhere off the board. Models that are removed can be brought back into the game via some means.
+When a model is removed, place it somewhere off the board. Some abilities can bring models that are removed back into the game.
 
-When a model is boxed, place it “back in its box”. This model cannot come back into the game via any method, even if a rule would normally put it back.
+When a model is boxed, place it “back in its box”. This model cannot come back into the game via any method, even if a rule or ability would normally put it back.
 
 # Visibility
 
