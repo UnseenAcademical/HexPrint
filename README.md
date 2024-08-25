@@ -172,13 +172,25 @@ Slide movement can move a model in any direction with no restrictions.
 
 ## MOVement
 
-When a model is activated to move, it is given a number of movement points equal to its MOV stat. Each type of terrain or tiles costs a certain amount of movement points to move into. Movement points do not have to be spent.
+When a model is activated to move, it is given a number of movement points equal to its MOV stat. Each type of terrain or tiles costs a certain amount of movement points to move into. Movement points do not have to be spent, a model can stop short at any point.
 
-Models cannot move through other models without special abilities.
+Models cannot move through other models unless stated otherwise.
 
 Multi-hex models cannot end their movement if all their hexes are not on the same height.
 
 If a model has not spent any of its movement points, you may choose to sacrifice its entire stock of movement points to move it into ANY empty adjacent tile which can be entered willingly. This is to prevent model’s being completely trapped unintentionally.
+
+## Leaving the Board
+
+Models cannot leave the board willingly, and cannot be placed off the board. Models can be pushed, pulled, or slid off the edge of the board. This can only be done if going in the correct direction (push away, pull towards) and cannot be done if the model didn't start forced movement adjacent to the board edge its being forced off of. This is so that the player controlling a model has the potential for action in between the model being in danger and actually being forced off the board.
+
+A model forced off the board is boxed.
+
+#Reactions
+
+Reactions are an interruption to the normal flow of activations, that allows a player to activate a model "out of order" or outside its time segment. When a reaction is activated, unless stated otherwise the model or unit activating the reaction will move one time segment forward (clockwise). If it would move into the current time segment, then instead that reaction is canceled.
+
+Reactions are always abilities given a condition such as "When a model moves within 3" or "Each time this model is damaged". The word "may" or "must" will indicate whether this ability has to be activated when the conditions are met, or whether the model's controller can choose not to use a reaction.
 
 # Damage
 
