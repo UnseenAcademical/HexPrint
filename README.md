@@ -208,7 +208,7 @@ When a model is boxed, place it “back in its box”. This model cannot come ba
 
 ## Line of Sight and Cover
 
-Unless stated otherwise, models must have line of sight to each other to affect each other with abilities. Some abilities do not require line of sight, being marked with ![sight-disabled](https://github.com/user-attachments/assets/e1461244-d533-419d-8bf9-3ea8a4b8d4bb)
+Unless stated otherwise, models must have line of sight to each other to affect each other with abilities. Some abilities do not require line of sight, being marked with <img width="2132" alt="Untitled" src="[https://github.com/user-attachments/assets/dcee0302-0933-4b55-be54-d577a17e4198"]>
 
 When attempting to check the line of sight between two models, follow this series of steps:
 
