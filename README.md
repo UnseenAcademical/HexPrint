@@ -126,13 +126,13 @@ Static abilities can be damaged. While they are damaged, they are no longer acti
 
 ACT refers to the number of actions a unit can take during their activation.
 
-ACT can be damaged. While it is damaged, the unit can only take a single action on each of their activations.
+ACT can be damaged. While it is damaged, the unit can only take a single action on each of their activations, no matter how many bonus actions they might be granted by other effects.
 
 ## MOV (The Movement stat)
 
 MOV refers to the number of hexes a unit can move for each action spent on movement.
 
-MOV can be damaged. While it is damaged, the unit can only move a single hex for each action spent on movement.
+MOV can be damaged. While it is damaged, the unit can only move a single hex for each action spent on movement, no matter if they have bonus movement.
 
 ## TAR (The Target stat)
 
