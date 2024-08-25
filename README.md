@@ -170,7 +170,11 @@ Slide movement can move a model in any direction with no restrictions.
 
 ## MOVement
 
-When a model is activated to move, it is given a number of movement points equal to its MOV stat. Each type of terrain or tiles costs a certain amount of movement points to move into.
+When a model is activated to move, it is given a number of movement points equal to its MOV stat. Each type of terrain or tiles costs a certain amount of movement points to move into. Movement points do not have to be spent.
+
+Models cannot move through other models without special abilities.
+
+Multi-hex models cannot end their movement if all their hexes are not on the same height.
 
 A model may choose instead to sacrifice its entire stock of movement points to move into ANY empty adjacent tile which can be entered willingly. This is to prevent model’s being completely trapped unintentionally.
 
