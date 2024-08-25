@@ -2,7 +2,7 @@
 
 # Introduction
 
-Someday I’ll figure out what to write here.
+HexPrint is a modular miniatures wargame that melds the customization of 3d printing, the creativity of hobbyist tradition, and the convenience of board games.
 
 # How to Win
 
