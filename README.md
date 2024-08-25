@@ -208,6 +208,8 @@ When a model is boxed, place it “back in its box”. This model cannot come ba
 
 ## Line of Sight and Cover
 
+Unless stated otherwise, models must have line of sight to each other to affect each other with abilities. Some abilities do not require line of sight, being marked with ![sight-disabled](https://github.com/user-attachments/assets/e1461244-d533-419d-8bf9-3ea8a4b8d4bb)
+
 When attempting to check the line of sight between two models, follow this series of steps:
 
 1. Bend down to "see" as best you can from the origin model to the target model.
@@ -217,6 +219,8 @@ When attempting to check the line of sight between two models, follow this serie
 5. If you can see more than 80%, the model has no cover.
 
 If a model has partial or full cover and its blocked at all by a terrain piece with rules, apply any special rules on that terrain piece's card to the shot/effect/etc.
+
+When a model with cover from the source of an ability would be affected by that ability, the model's controller may choose to make a cover roll. To make a cover roll, roll against the model's TAR. For full cover, roll two dice, and for partial cover roll one. If you get one or more successes, the ability has no effect on that model.
 
 # Terrain
 
